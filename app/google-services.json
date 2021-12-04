@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475331324910",
+    "project_id": "mis-finanzas-74fca",
+    "storage_bucket": "mis-finanzas-74fca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475331324910:android:c053526b681b4e03dafcff",
+        "android_client_info": {
+          "package_name": "com.idat.misfinanzas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475331324910-jvr2b6lftf9cov78rgdciqom5gieh13o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOe9GLneL1CphkTDRV3jPeJ7r3ZP630DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475331324910-jvr2b6lftf9cov78rgdciqom5gieh13o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

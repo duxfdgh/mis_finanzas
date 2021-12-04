@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">misfinanzas</string>
+    <string name="prefs_file">com.idat.misfinanzas.PREFERENCE_FILE_KEY</string>
+</resources>
